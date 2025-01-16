@@ -6,15 +6,15 @@
 
 ###
 
-<h2 align="left">I code with</h2>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
 
 <p align="left">✨ Creating bugs since 2022.<br><br> 🎯 📚 I'm currently learning AWS and improving my coding practices.<br><br>🎲 Fun fact: I believe every piece of code tells a story—sometimes a comedy, sometimes a tragedy.</p>
+
+###
+
+<h2 align="left">I code with</h2>
 
 ###
 
